@@ -1,0 +1,26 @@
+# Maven
+**/target/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+dist/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Android
+android-app/.gradle/
+android-app/.idea/
+android-app/build/
+
+# ignore the large JAR built earlier
+sbpokems/target/
+
+# OS
+Thumbs.db
+.DS_Store
