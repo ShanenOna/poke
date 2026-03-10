@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox alignment="CENTER" prefHeight="800.0" prefWidth="300.0" spacing="5.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.gabriel.pokems.DeletePokeLuckController">
+	<padding>
+		<Insets bottom="5.0" left="20.0" right="20.0" top="5.0" />
+	</padding>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+	<Label alignment="CENTER" prefWidth="80.0" text="Id">
+	<padding>
+	<Insets left="10.0" />
+	</padding>
+	</Label>
+	<TextField fx:id="txtId" editable="false" prefWidth="200.0" >
+	<HBox.margin>
+	<Insets />
+	</HBox.margin>
+	</TextField>
+	<padding>
+	<Insets top="10.0" />
+	</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="Player">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<StackPane prefHeight="150.0" prefWidth="200.0">
+			<children>
+				<ComboBox fx:id="cmbPlayer" prefWidth="200.0" />
+				<TextField fx:id="txtPlayerName" editable="false" prefWidth="150.0"/>
+			</children>
+		</StackPane>
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="PositionX">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtPositionX" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="PositionY">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtPositionY" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="Pokemon">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<StackPane prefHeight="150.0" prefWidth="200.0">
+			<children>
+				<ComboBox fx:id="cmbPokemon" prefWidth="200.0" />
+				<TextField fx:id="txtPokemonName" editable="false" prefWidth="150.0"/>
+			</children>
+		</StackPane>
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="PokemonType">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtPokemonType" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="Trigger">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<StackPane prefHeight="150.0" prefWidth="200.0">
+			<children>
+				<ComboBox fx:id="cmbTrigger" prefWidth="200.0" />
+				<TextField fx:id="txtTriggerName" editable="false" prefWidth="150.0"/>
+			</children>
+		</StackPane>
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="TriggerPositionX">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtTriggerPositionX" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="TriggerPositionY">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtTriggerPositionY" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="CoinFlip">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<StackPane prefHeight="150.0" prefWidth="200.0">
+			<children>
+				<ComboBox fx:id="cmbCoinFlip" prefWidth="200.0" />
+				<TextField fx:id="txtCoinFlipName" editable="false" prefWidth="150.0"/>
+			</children>
+		</StackPane>
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="CoinFlipResult">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtCoinFlipResult" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="CatchResult">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<StackPane prefHeight="150.0" prefWidth="200.0">
+			<children>
+				<ComboBox fx:id="cmbCatchResult" prefWidth="200.0" />
+				<TextField fx:id="txtCatchResultName" editable="false" prefWidth="150.0"/>
+			</children>
+		</StackPane>
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="CatchResultStatus">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtCatchResultStatus" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="EventLog">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<StackPane prefHeight="150.0" prefWidth="200.0">
+			<children>
+				<ComboBox fx:id="cmbEventLog" prefWidth="200.0" />
+				<TextField fx:id="txtEventLogName" editable="false" prefWidth="150.0"/>
+			</children>
+		</StackPane>
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="EventType">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtEventType" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="EventTimestamp">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<DatePicker fx:id="dtEventTimestamp" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="Inventory">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<StackPane prefHeight="150.0" prefWidth="200.0">
+			<children>
+				<ComboBox fx:id="cmbInventory" prefWidth="200.0" />
+				<TextField fx:id="txtInventoryName" editable="false" prefWidth="150.0"/>
+			</children>
+		</StackPane>
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox prefHeight="30.0" prefWidth="200.0">
+		<Label alignment="CENTER" prefWidth="80.0" text="InventoryCount">
+			<padding>
+				<Insets left="10.0" />
+			</padding>
+		</Label>
+		<TextField fx:id="txtInventoryCount" editable="false" prefWidth="200.0" />
+		<padding>
+			<Insets top="10.0" />
+		</padding>
+	</HBox>
+	<HBox layoutX="30.0" layoutY="297.0" prefHeight="30.0" prefWidth="200.0" spacing="19.0">
+		<children>
+			<Button fx:id="btnBack" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#onBack" text="&lt;&lt; Back" />
+			<Button fx:id="btnUpdate" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#onSubmit" text="Submit" />
+			<Button fx:id="btnClose" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#onClose" text="Close" />
+		</children>
+	</HBox>
+</VBox>

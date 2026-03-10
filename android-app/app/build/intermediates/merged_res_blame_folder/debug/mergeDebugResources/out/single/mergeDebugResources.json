@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_dpad_button_bg.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\dpad_button_bg.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_game_map.png.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\game_map.png"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_start_bg.png.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\start_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_pikachu.png.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\pikachu.png"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-pngs-33:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_pokemon_placeholder.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\pokemon_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_my_character.png.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\my_character.png"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/raw_lake_theme.mp3.flat",
+        "source": "com.gabriel.pokems.app-main-39:/raw/lake_theme.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_charmander.png.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\charmander.png"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/drawable_start_bg.png.flat",
+        "source": "com.gabriel.pokems.app-main-39:/drawable/start_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\layout_fragment_pokemon_popup.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\layout\\fragment_pokemon_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_bulbasaur.png.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\bulbasaur.png"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_character.xml.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\character.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-debug-37:\\drawable_squirtle.png.flat",
+        "source": "C:\\Users\\Shanen\\.gradle\\daemon\\8.13\\com.gabriel.pokems.app-main-39:\\drawable\\squirtle.png"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/layout_activity_start.xml.flat",
+        "source": "com.gabriel.pokems.app-main-39:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.gabriel.pokems.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]

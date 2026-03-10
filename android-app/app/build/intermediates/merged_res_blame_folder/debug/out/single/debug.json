@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.gabriel.pokems.app-merged_res-28:/layout_activity_game.xml.flat",
+        "source": "com.gabriel.pokems.app-main-30:/layout/activity_game.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-merged_res-28:/drawable_character.xml.flat",
+        "source": "com.gabriel.pokems.app-main-30:/drawable/character.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-merged_res-28:/layout_fragment_pokemon_popup.xml.flat",
+        "source": "com.gabriel.pokems.app-main-30:/layout/fragment_pokemon_popup.xml"
+    },
+    {
+        "merged": "com.gabriel.pokems.app-merged_res-28:/drawable_pokemon_placeholder.xml.flat",
+        "source": "com.gabriel.pokems.app-main-30:/drawable/pokemon_placeholder.xml"
+    }
+]
